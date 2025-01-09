@@ -3,3 +3,4 @@ Second
 
 
 then commited
+.env file
