@@ -7,4 +7,8 @@ then commited
 in new branch added for content
 
 
+
+ added content to newBranch and pushing it 
+
 addded some more content
+
